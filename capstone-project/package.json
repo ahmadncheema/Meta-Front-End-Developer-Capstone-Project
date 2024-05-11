@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://leonardojacomussi.github.io/little-lemon",
+  "homepage": "https://github.com/ahmadncheema/Meta-Front-End-Developer-Capstone-Project/capstone-project/",
   "scripts": {
     "dev": "vite",
     "start": "vite",
